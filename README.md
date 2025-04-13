@@ -61,5 +61,7 @@ By completing this project, you will gain practical experience in:
 - Managing database access through user groups and roles.
 - Querying data to extract meaningful insights.
 
-## License
-This project is licensed under the MIT License.
+##Project members:
+1. wambugualexander09@gmail.com
+2. clarrisngonyo221@gmail.com
+3. michaelolayenikan@gmail.com
